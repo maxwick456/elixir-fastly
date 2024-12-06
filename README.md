@@ -12,6 +12,7 @@
     <a href="https://railway.app/new/template/ioMhDh?referralCode=h7vpyl" alt="Deploy to Railway">
         <img src="https://img.shields.io/badge/-Deploy to Railway-blue?style=for-the-badge&logo=Railway" /></a>
 </p>
+[![Deploy to Fastly](https://deploy.edgecompute.app/button)](https://deploy.edgecompute.app/deploy)
 
 </div>
 
