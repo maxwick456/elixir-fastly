@@ -1,0 +1,9 @@
+# This file describes a Fastly Compute@Edge package. To learn more visit:
+# https://developer.fastly.com/reference/fastly-toml/
+
+authors = ["max@99v.org"]
+description = "Elixir Proxy"
+language = "Javascript"
+manifest_version = 1
+name = "elixir-proxy"
+service_id = ""
